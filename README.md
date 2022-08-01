@@ -3,5 +3,5 @@
 <br>
 -This program is made using C++ .
 <br>
--This program is not fully completed and is being updated time to time.
+-This program is not fully completed and is being updated from time to time.
 <br>
